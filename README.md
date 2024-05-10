@@ -1,4 +1,4 @@
-### [![Spotify]https://nova-c515-kyluais-projects.vercel.app/)](https://open.spotify.com/user/USER_NAME)
+### [![Spotify](https://nova-c515-kyluais-projects.vercel.app/)](https://open.spotify.com/user/USER_NAME)
 
 <!--
 **kyluai/kyluai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
